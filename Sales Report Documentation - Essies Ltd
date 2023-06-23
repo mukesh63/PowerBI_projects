@@ -1,0 +1,47 @@
+Sales Report Documentation - Essies Ltd
+
+Essies Ltd, in their expansion strategy, launched a new product to target a segmented customer base and region. This document provides a thorough analysis of the sales report based on data collected from the Power BI project.
+Objective
+
+David, the sales head, sought to generate essential insights from the data received from the frontline retailers. To achieve this, Benson, his appointee, formulated a plan of execution centered on creating reference tables and prioritizing retail sales.
+Data Analysis Process
+
+The data analysis process required the creation of some reference tables. These tables included a date and products table, a separate product category table, and a product subcategory table. These tables helped in organizing and breaking down the data for effective analysis.
+
+The retail sales were categorized into High, Mid & Low priority levels to better understand the sales patterns and allocate resources accordingly. For easier data visualization, an interactive slicer was used to filter data based on the country flag.
+Sales Dashboard
+
+The sales dashboard highlighted the following:
+
+    Units Sold by Category: The dashboard showed the total units sold for each category.
+    Total Units Sold: This gave an overall summary of the total units sold across all categories and regions.
+    Retail Units Sold: This data provided the total number of units sold in retail.
+    Sales Unit Sold: This data indicated the total sales unit sold.
+
+Top Performers
+
+The top 10 retailers in terms of units sold were highlighted to recognize their contributions and identify successful sales strategies.
+
+The top-performing products and subcategories in terms of units sold were also identified. This information can be useful in strategic decision-making for stock replenishment, marketing, and sales promotions.
+Marketing Campaign Analysis
+
+John, the Marketing Head, initiated a major campaign to increase market penetration. The success of the campaign was measured by:
+
+    Units sold in Promotion events in terms of reseller, no discount, and Customers.
+    Units sold in terms of Components, Accessories, Clothing, Bikes.
+    Units sold in terms of retail counter.
+
+Findings
+
+From the Power BI project, the following findings were made:
+
+    Total Retail Unit: 214K units
+    Total Sales Unit: 60K units
+    Total Units Sold: 274.78K units
+
+The highest number of units were sold in Australia, Canada, Germany, France, UK, and the US.
+
+The most sold items were the "Water Bottle - 30 oz.", "Sport-100 Helmet" (Red, Blue, and Black), "Short-Sleeve Classic Jersey, XL", "Patch Kit/8 Patches", "Long-Sleeve Logo Jersey" (M, L), "Classic Vest, S", and "AWC Logo Cap".
+Conclusion
+
+This document presents the analysis process and results of the sales report for Essies Ltd's new product. The insights gained are pivotal for business decisions regarding product distribution, sales strategies, and marketing campaigns.
